@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-27954023.4cee565",
+    "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "chart.js": "^4.2.1",
+    "nuxt-swiper": "^1.0.0",
+    "vue-chartjs": "^5.2.0"
+  }
+}
