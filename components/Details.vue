@@ -7,11 +7,11 @@
           </div>
           <h2 class="details__title" data-aos="animation-scale-y">Think. Make. <br>Solve. </h2>
           <div class="details__btn" data-aos="animation-translate-y">
-            <a href="#contact" class="btn btn_purple"><span class="btn__text">Contact Me</span>
+            <NuxtLink :to="{ path: '/',hash:'#contact'}" class="btn btn_purple"><span class="btn__text">Contact Me</span>
               <svg xmlns="http://www.w3.org/2000/svg" width="22" height="16" fill="none" viewBox="0 0 22 16">
                 <path fill-rule="evenodd" d="M14.707.293a1 1 0 0 0-1.414 0 1 1 0 0 0 0 1.414L18.586 7H1a1 1 0 1 0 0 2h17.586l-5.293 5.293a1 1 0 0 0 1.414 1.414l7-7c.183-.183.28-.419.292-.659L22 8m-.076-.383c-.049-.118-.121-.228-.217-.324l-7-7m7.217 7.324c.048.115.075.241.076.374z" fill="#fff"></path>
               </svg>
-            </a>
+            </NuxtLink>
           </div>
            <div class="review">
             <div class="review__center center">
@@ -35,7 +35,8 @@
           <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="2" data-orientation="down" src="/img/content/figure-1.png" alt="" /></div>
           <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="2" data-orientation="up" src="/img/content/figure-2.png" alt="" /></div>
           <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="1.2" data-orientation="up" src="/img/content/figure-3.png" alt="" /></div>
-        </div><a class="details__contact" href="#contact">Contact me</a>
+        </div>
+        <NuxtLink :to="{ path: '/',hash:'#contact'}" class="details__contact">Contact me</NuxtLink>
       </div>
 </template>
 

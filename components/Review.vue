@@ -51,8 +51,8 @@
 <script setup>
 const comments = ref([
   "Soheil work is excellent with relatively high level clean coding 😍",
-  "I carry out my projects with Sohail. He is very patient and tireless 😅",
-  "I suggest you work with Sohail once, the decision is yours 😉",
+  "I carry out my projects with Soheil. He is very patient and tireless 😅",
+  "I suggest you work with Soheil once, the decision is yours 😉",
   "Your work is excellent and user-friendly 💗",
 ]);
 </script>
