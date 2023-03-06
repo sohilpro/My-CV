@@ -27,7 +27,7 @@
           <nuxt-img
             format="webp"
             class="cases__pic"
-            src="/img/content/project-1.png"
+            src="/img/content/soheil-p1.jpg"
             alt="..."
           />
           <div class="cases__box">Show <br />work</div>
@@ -47,7 +47,7 @@
           <nuxt-img
             format="webp"
             class="cases__pic"
-            src="/img/content/project-2.jpg"
+            src="/img/content/soheil-p2.jpg"
             alt="..."
           />
           <div class="cases__box">Show <br />work</div>
