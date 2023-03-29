@@ -34,7 +34,8 @@
         </div>
         <div class="cases__body">
           <h4 class="cases__info h4">My CV</h4>
-          <div class="cases__text">GitHub Repo, Coded Template</div>
+          <h5 class="cases__text">VueJS , NuxtJS</h5>
+          <div class="cases__text"><a class="cases__text" href="https://github.com/sohilpro/My-CV">GitHub Repo</a>, Coded Template</div>
         </div></a
       >
       <a
@@ -54,7 +55,8 @@
         </div>
         <div class="cases__body">
           <h4 class="cases__info h4">Clothing Store</h4>
-          <div class="cases__text">GitHub Repo, Coded Template</div>
+          <h5 class="cases__text">VueJS , Vuetify</h5>
+          <div class="cases__text"><a class="cases__text" href="https://github.com/sohilpro/clothing-store">GitHub Repo</a>, Coded Template</div>
         </div></a
       >
     </div>

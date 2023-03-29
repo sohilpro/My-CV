@@ -2,6 +2,9 @@
 
 Look at the My Mini Project [sohilpro](https://codepen.io/soheilpro) 
 
+## check Live
+
+[sohilproCV](https://sohil-pro-cv.netlify.app/) 
 ## Setup
 
 Make sure to install the dependencies:

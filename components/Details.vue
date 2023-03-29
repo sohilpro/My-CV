@@ -55,12 +55,12 @@ const chartData = ref({
         "Vue.js",
         "Nuxt.js",
         "Node.js",
-        "nest.js",
-        "express.js",
+        // "nest.js",
+        // "express.js",
         ],
         datasets: [ { 
           label: 'My Skills',
-          data: [100, 99, 85, 95, 95,80,85,70,50,60],
+          data: [100, 99, 85, 95, 95,80,85,70],
           backgroundColor: [
             "rgba(255, 99, 132, 0.2)",
             "rgba(54, 162, 235, 0.2)",
@@ -70,8 +70,8 @@ const chartData = ref({
             "rgba(1, 254, 12,0.1)",
             "rgba(201, 203, 207, 0.2)",
             "rgba(255, 159, 64, 0.2)",
-            "rgba(255, 99, 132, 0.2)",
-            "rgba(201, 203, 207, 0.2)",
+            // "rgba(255, 99, 132, 0.2)",
+            // "rgba(201, 203, 207, 0.2)",
           ],
           borderColor: [
             "rgb(255, 99, 132)",
@@ -82,8 +82,8 @@ const chartData = ref({
             "rgb(75, 192, 192)",
             "rgb(75, 192, 192)",
             "rgb(255, 159, 64)",
-            "rgb(255, 99, 132)",
-            "rgb(201, 203, 207)",
+            // "rgb(255, 99, 132)",
+            // "rgb(201, 203, 207)",
           ],
           borderWidth: 1,
          } 
