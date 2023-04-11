@@ -120,12 +120,12 @@
                   </div>
                 </div>
                 <div class="figures">
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic" src="/img/content/figures-1.png" alt="..."/></div>
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic js-parallax" data-scale="1.6" data-orientation="up" src="/img/content/figures-2.png" alt="..."/></div>
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic js-parallax" data-scale="1.3" data-orientation="up" src="/img/content/figures-3.png" alt="..."/></div>
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic" src="/img/content/figures-4.png" alt=""/></div>
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic js-parallax" data-scale="2.3" data-orientation="down" src="/img/content/figures-5.png" alt="..."/></div>
-                  <div class="figures__preview"><nuxt-img format="webp" class="figures__pic js-parallax" data-scale="2" data-orientation="up" src="/img/content/figures-6.png" alt="..."/></div>
+                  <div class="figures__preview"><img class="figures__pic" src="/img/content/figures-1.png" alt="..."/></div>
+                  <div class="figures__preview"><img class="figures__pic js-parallax" data-scale="1.6" data-orientation="up" src="/img/content/figures-2.png" alt="..."/></div>
+                  <div class="figures__preview"><img class="figures__pic js-parallax" data-scale="1.3" data-orientation="up" src="/img/content/figures-3.png" alt="..."/></div>
+                  <div class="figures__preview"><img class="figures__pic" src="/img/content/figures-4.png" alt=""/></div>
+                  <div class="figures__preview"><img class="figures__pic js-parallax" data-scale="2.3" data-orientation="down" src="/img/content/figures-5.png" alt="..."/></div>
+                  <div class="figures__preview"><img class="figures__pic js-parallax" data-scale="2" data-orientation="up" src="/img/content/figures-6.png" alt="..."/></div>
                 </div>
               </div>
             </div>

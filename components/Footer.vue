@@ -32,8 +32,7 @@
   </div>
   <div class="footer__bg">
     <div class="footer__preview">
-      <nuxt-img
-        format="webp"
+      <img
         class="footer__pic js-parallax"
         data-scale="1.5"
         data-orientation="down"
@@ -42,8 +41,7 @@
       />
     </div>
     <div class="footer__preview">
-      <nuxt-img
-        format="webp"
+      <img
         class="footer__pic js-parallax"
         data-scale="1.8"
         data-orientation="up"

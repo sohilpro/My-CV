@@ -26,15 +26,15 @@
             />
             </ClientOnly>
             <div class="review__bg">
-              <div class="review__preview"><nuxt-img format="webp" class="review__pic js-parallax" data-scale="1.5" data-orientation="down" src="/img/content/review-cube.png" alt="" /></div>
-              <div class="review__preview"><nuxt-img format="webp" class="review__pic" src="/img/content/review-cube.png" alt=""/></div>
+              <div class="review__preview"><img class="review__pic js-parallax" data-scale="1.5" data-orientation="down" src="/img/content/review-cube.png" alt="" /></div>
+              <div class="review__preview"><img class="review__pic" src="/img/content/review-cube.png" alt=""/></div>
             </div>
           </div>
         </div>
         <div class="details__figures">
-          <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="2" data-orientation="down" src="/img/content/figure-1.png" alt="" /></div>
-          <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="2" data-orientation="up" src="/img/content/figure-2.png" alt="" /></div>
-          <div class="details__figure"><nuxt-img format="webp" class="details__pic js-parallax" data-scale="1.2" data-orientation="up" src="/img/content/figure-3.png" alt="" /></div>
+          <div class="details__figure"><img class="details__pic js-parallax" data-scale="2" data-orientation="down" src="/img/content/figure-1.png" alt="" /></div>
+          <div class="details__figure"><img class="details__pic js-parallax" data-scale="2" data-orientation="up" src="/img/content/figure-2.png" alt="" /></div>
+          <div class="details__figure"><img class="details__pic js-parallax" data-scale="1.2" data-orientation="up" src="/img/content/figure-3.png" alt="" /></div>
         </div>
         <NuxtLink :to="{ path: '/',hash:'#contact'}" class="details__contact">Contact me</NuxtLink>
       </div>

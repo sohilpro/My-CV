@@ -8,7 +8,6 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/image-edge": "^1.0.0-27954023.4cee565",
     "consola": "^3.0.1",
     "nuxt": "^3.4.0"
   },

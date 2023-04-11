@@ -34,8 +34,7 @@
   </div>
   <div class="review__bg">
     <div class="review__preview">
-      <nuxt-img 
-        format="webp"
+      <img
         class="review__pic js-parallax"
         data-scale="1.5"
         data-orientation="down"
@@ -44,7 +43,7 @@
       />
     </div>
     <div class="review__preview">
-      <nuxt-img format="webp" class="review__pic" src="/img/content/review-cube.png" alt="..." />
+      <img class="review__pic" src="/img/content/review-cube.png" alt="..." />
     </div>
   </div>
 </template>

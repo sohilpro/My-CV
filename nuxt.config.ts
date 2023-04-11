@@ -122,5 +122,5 @@ export default defineNuxtConfig({
   },
   css: ["~/assets/css/app.css"],
   plugins: [{ src: "~/plugins/aos", ssr: false, mode: "client" }],
-  modules: ["nuxt-swiper", "@nuxt/image-edge"],
+  modules: ["nuxt-swiper"],
 });

@@ -4,7 +4,7 @@
       <div class="header js-header" id="header">
         <div class="header__center center">
           <NuxtLink class="header__logo" to="/">
-            <nuxt-img format="webp" class="header__pic" src="/img/man.png" alt="logo"/>
+            <img class="header__pic" src="/img/man.png" alt="logo"/>
           </NuxtLink>
           <div class="header__social header__social_main">
             <a target="_blank" class="header__link" href="https://GitHub.com/sohilpro">
@@ -14,8 +14,8 @@
           <button @click="showNav" class="header__burger js-header-burger" :class="{'active': body}"></button>
         </div>
         <div class="header__wrapper js-header-wrapper" :class="{'visible': body}">
-          <div class="header__preview"><NuxtLink class="header__logo" to="/"><nuxt-img format="webp" class="header__pic" src="/img/man.png" alt=""/></NuxtLink>
-            <div class="header__img"><nuxt-img format="webp" class="header__pic" src="/img/content/bg-header.png" alt=""/></div>
+          <div class="header__preview"><NuxtLink class="header__logo" to="/"><img class="header__pic" src="/img/man.png" alt=""/></NuxtLink>
+            <div class="header__img"><img class="header__pic" src="/img/content/bg-header.png" alt=""/></div>
           </div>
           <div class="header__center center">
             <div class="header__contacts"><a class="header__line" href="mailto:sohil123@gmail.com">
@@ -62,7 +62,7 @@
           </div>
         </div>
       </div>
-      <div class="main__bg"><nuxt-img format="webp" class="main__pic" src="/img/content/bg-main.jpg" alt=""/></div>
+      <div class="main__bg"><img class="main__pic" src="/img/content/bg-main.jpg" alt=""/></div>
       <div class="main__center center">
         <div class="main__wrap">
           <div class="main__stage stage" data-aos="transform">soheil khabbaz</div>
@@ -74,18 +74,18 @@
         </div>
       </div>
       <div class="main__view" data-aos>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic" src="/img/content/main-pic-6.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="2.5" data-orientation="up" src="/img/content/main-pic-1.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="1.5" data-orientation="up" src="/img/content/main-pic-2.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic" src="/img/content/main-pic-3.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic" src="/img/content/main-pic-4.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="4.5" data-orientation="up" src="/img/content/main-pic-5.png" alt="" /></div>
-        <div class="main__preview"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="1.5" data-orientation="down" src="/img/content/main-pic-7.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic" src="/img/content/main-pic-6.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic js-parallax" data-scale="2.5" data-orientation="up" src="/img/content/main-pic-1.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic js-parallax" data-scale="1.5" data-orientation="up" src="/img/content/main-pic-2.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic" src="/img/content/main-pic-3.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic" src="/img/content/main-pic-4.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic js-parallax" data-scale="4.5" data-orientation="up" src="/img/content/main-pic-5.png" alt="" /></div>
+        <div class="main__preview"><img class="main__pic js-parallax" data-scale="1.5" data-orientation="down" src="/img/content/main-pic-7.png" alt="" /></div>
       </div>
       <div class="main__figures">
-        <div class="main__figure" data-aos="animation-translate-y"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="2.2" data-orientation="down" src="/img/content/figure-1.png" alt="..." /></div>
-        <div class="main__figure" data-aos="animation-translate-y" data-aos-delay="200"><nuxt-img format="webp" class="main__pic js-parallax" data-scale="2.2" data-orientation="up" src="/img/content/figure-2.png" alt="..." /></div>
-        <div class="main__figure" data-aos="animation-translate-y" data-aos-delay="400"><nuxt-img format="webp" class="main__pic" src="/img/content/figure-3.png" alt="..." /></div>
+        <div class="main__figure" data-aos="animation-translate-y"><img class="main__pic js-parallax" data-scale="2.2" data-orientation="down" src="/img/content/figure-1.png" alt="..." /></div>
+        <div class="main__figure" data-aos="animation-translate-y" data-aos-delay="200"><img class="main__pic js-parallax" data-scale="2.2" data-orientation="up" src="/img/content/figure-2.png" alt="..." /></div>
+        <div class="main__figure" data-aos="animation-translate-y" data-aos-delay="400"><img class="main__pic" src="/img/content/figure-3.png" alt="..." /></div>
       </div>
     </div>
   </Body>

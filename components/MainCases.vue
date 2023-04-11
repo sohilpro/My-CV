@@ -24,8 +24,7 @@
         href="#"
       >
         <div class="cases__preview">
-          <NuxtImg
-            format="webp"
+          <img
             class="cases__pic"
             src="/img/content/soheil-p1.jpg"
             alt="..."
@@ -45,8 +44,7 @@
         href="https://google.com"
       >
         <div class="cases__preview">
-          <nuxt-img
-            format="webp"
+          <img
             class="cases__pic"
             src="/img/content/soheil-p2.jpg"
             alt="..."
@@ -63,8 +61,7 @@
   </div>
   <div class="cases__figures">
     <div class="cases__figure">
-      <nuxt-img
-        format="webp"
+      <img
         class="cases__pic js-parallax"
         data-scale="2"
         data-orientation="down"
@@ -73,8 +70,7 @@
       />
     </div>
     <div class="cases__figure">
-      <nuxt-img
-        format="webp"
+      <img
         class="cases__pic js-parallax"
         data-scale="1.8"
         data-orientation="down"

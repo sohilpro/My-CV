@@ -12,9 +12,9 @@
             </NuxtLink>
           </div>
         </div>
-        <div class="work__preview"><nuxt-img format="webp" class="work__pic js-parallax" data-scale="2" data-orientation="down" src="/img/content/work-cube.png" alt="..." /></div>
+        <div class="work__preview"><img class="work__pic js-parallax" data-scale="2" data-orientation="down" src="/img/content/work-cube.png" alt="..." /></div>
         <div class="work__figures" data-aos>
-          <div class="work__figure"><nuxt-img format="webp" class="work__pic" src="/img/certificate.jpg" alt="" /></div>
+          <div class="work__figure"><img class="work__pic" src="/img/certificate.jpg" alt="" /></div>
         </div>
       </div>
 </template>
