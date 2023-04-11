@@ -24,7 +24,7 @@
         href="#"
       >
         <div class="cases__preview">
-          <nuxt-img
+          <NuxtImg
             format="webp"
             class="cases__pic"
             src="/img/content/soheil-p1.jpg"
