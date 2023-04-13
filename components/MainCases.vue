@@ -17,46 +17,55 @@
       data-items-mobile-album="1"
       data-autoheight
     >
-      <a
+      <NuxtLink
         class="cases__item"
         data-aos="animation-translate-y"
         data-aos-delay=""
-        href="#"
+        to="/"
       >
         <div class="cases__preview">
-          <img
-            class="cases__pic"
-            src="/img/content/soheil-p1.jpg"
-            alt="..."
-          />
+          <img class="cases__pic" src="/img/content/soheil-p1.jpg" alt="..." />
           <div class="cases__box">Show <br />work</div>
         </div>
         <div class="cases__body">
           <h4 class="cases__info h4">My CV</h4>
           <h5 class="cases__text">VueJS , NuxtJS</h5>
-          <div class="cases__text"><a class="cases__text" href="https://github.com/sohilpro/My-CV">GitHub Repo</a>, Coded Template</div>
-        </div></a
-      >
+          <h5 class="cases__text">GitHub Repo , Coded Template</h5>
+        </div></NuxtLink>
       <a
         class="cases__item"
         data-aos="animation-translate-y"
         data-aos-delay=""
-        href="https://google.com"
+        target="_blank"
+        href="https://github.com/sohilpro/clothing-store"
       >
         <div class="cases__preview">
-          <img
-            class="cases__pic"
-            src="/img/content/soheil-p2.jpg"
-            alt="..."
-          />
+          <img class="cases__pic" src="/img/content/soheil-p2.jpg" alt="..." />
           <div class="cases__box">Show <br />work</div>
         </div>
         <div class="cases__body">
           <h4 class="cases__info h4">Clothing Store</h4>
           <h5 class="cases__text">VueJS , Vuetify</h5>
-          <div class="cases__text"><a class="cases__text" href="https://github.com/sohilpro/clothing-store">GitHub Repo</a>, Coded Template</div>
-        </div></a
+          <h5 class="cases__text">GitHub Repo , Coded Template</h5>
+        </div>
+      </a>
+      <a
+        class="cases__item"
+        data-aos="animation-translate-y"
+        data-aos-delay=""
+        target="_blank"
+        href="https://pet-shop-sohilpro.netlify.app"
       >
+        <div class="cases__preview">
+          <img class="cases__pic" src="/img/content/soheil-p3.jpg" alt="..." />
+          <div class="cases__box">Show <br />work</div>
+        </div>
+        <div class="cases__body">
+          <h4 class="cases__info h4">Pet Shop</h4>
+          <h5 class="cases__text">VueJS , NuxtJS</h5>
+          <h5 class="cases__text">GitHub Repo , Coded Template</h5>
+        </div>
+      </a>
     </div>
   </div>
   <div class="cases__figures">
