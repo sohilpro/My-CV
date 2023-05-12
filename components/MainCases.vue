@@ -54,7 +54,7 @@
         data-aos="animation-translate-y"
         data-aos-delay=""
         target="_blank"
-        href="https://pet-shop-sohilpro.netlify.app"
+        href="https://pet-shop.iran.liara.run"
       >
         <div class="cases__preview">
           <img class="cases__pic" src="/img/content/soheil-p3.jpg" alt="..." />
