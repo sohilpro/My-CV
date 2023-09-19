@@ -54,14 +54,14 @@
         data-aos="animation-translate-y"
         data-aos-delay=""
         target="_blank"
-        href="https://pet-shop.iran.liara.run"
+        href="https://sohilpro-trello.netlify.app"
       >
         <div class="cases__preview">
-          <img class="cases__pic" src="/img/content/soheil-p3.jpg" alt="..." />
+          <img class="cases__pic" src="/img/content/soheil-p4.jpg" alt="..." />
           <div class="cases__box">Show <br />work</div>
         </div>
         <div class="cases__body">
-          <h4 class="cases__info h4">Pet Shop</h4>
+          <h4 class="cases__info h4">reBuild Trello</h4>
           <h5 class="cases__text">VueJS , NuxtJS</h5>
           <h5 class="cases__text">GitHub Repo , Coded Template</h5>
         </div>

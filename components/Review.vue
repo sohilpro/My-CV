@@ -7,6 +7,7 @@
       data-aos-delay="200"
     >
       Trusted By <br />
+      Trusted By <br />
       Clients.
     </h2>
     <div
